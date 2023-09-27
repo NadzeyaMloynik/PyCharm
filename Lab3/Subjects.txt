@@ -1,0 +1,5 @@
+Computer Science: 100(l) 50(pr) 20(lab)
+Physics: 30(l) 10(lab)
+Physical culture: 30(pr)
+History: 80(l) 20(pr)
+Biology: 15(l) 10(lab)
